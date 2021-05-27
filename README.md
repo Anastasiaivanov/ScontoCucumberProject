@@ -1,3 +1,3 @@
-#ScontoCucumberProject
+# ScontoCucumberProject
 
-Test task for "Sconto" website based on Cucumber
+Test task for "Sconto" website based on Cucumber framework
